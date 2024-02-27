@@ -1,0 +1,9 @@
+.rating-container {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.star {
+  color: #f5a92e;
+  margin-right: 5px;
+}
